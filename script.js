@@ -13,4 +13,4 @@ document.getElementsByClassName("button-block")[0].addEventListener('click', fun
 //   var cityLine = $('#city').val() + ', ' + $('#state option:selected').text() + ' ' + $('#zip').val();
 //
 //   $('#combined').val(addressLine + '\n' + cityLine);
-});
+// });
